@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air"
+site_theme               : "lavender"
 title                    : "Tugce Burcu Gundogdu"
 title_separator          : "-"
 name                     : &name "Tugce Burcu Gundogdu"
@@ -23,10 +23,10 @@ repository               : "txgceburcu/txgceburcu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "profile.png"
   name             : "Tugce Burcu Gundogdu"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science undergraduate researcher at George Mason University"
+  bio              : "Undergraduate Researcher in Information Science and Computational Social Science"
   location         : "Fairfax, Virginia"
   employer         : "George Mason University"
   uri              : # URL
@@ -166,6 +166,21 @@ include:
   - _pages
   - files
 exclude:
+  - AGENTS.md
+  - docker-compose.yaml
+  - markdown_generator
+  - scripts
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - _pages/archive-layout-with-content.md
+  - _pages/non-menu-page.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/page-archive.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

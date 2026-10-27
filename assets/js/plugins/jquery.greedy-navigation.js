@@ -58,14 +58,10 @@ function updateNav() {
   // Keep counter updated
   $btn.attr("count", breaks.length);
 
-  // update masthead height and the body/sidebar top padding
+  // Keep content below the fixed masthead; the sidebar uses CSS sticky positioning.
   var mastheadHeight = $('.masthead').height();
   $('body').css('padding-top', mastheadHeight + 'px');
-  if ($(".author__urls-wrapper button").is(":visible")) {
-    $(".sidebar").css("padding-top", "");
-  } else {
-    $(".sidebar").css("padding-top", mastheadHeight + "px");
-  }
+  $btn.attr('aria-expanded', !$hlinks.hasClass('hidden'));
 
 }
 
@@ -74,13 +70,14 @@ function updateNav() {
 $(window).on('resize', function () {
   updateNav();
 });
-screen.orientation.addEventListener("change", function () {
-  updateNav();
-});
+if (screen.orientation) {
+  screen.orientation.addEventListener("change", updateNav);
+}
 
 $btn.on('click', function () {
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
+  $(this).attr('aria-expanded', !$hlinks.hasClass('hidden'));
 });
 
 updateNav();

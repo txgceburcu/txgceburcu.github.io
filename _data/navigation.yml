@@ -10,11 +10,11 @@ main:
     url: /publications/
   - title: "Presentations"
     url: /presentations/
+  - title: "Posters"
+    url: /posters/
   - title: "Awards"
     url: /awards/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
     url: /cv/
-  - title: "Contact"
-    url: /contact/

@@ -1,0 +1,21 @@
+/* Preserve the theme toggle with readable lavender accents in dark mode. */
+html[data-theme="dark"] {
+  --global-base-color: #c8b4e1;
+  --global-bg-color: #201b27;
+  --global-footer-bg-color: #302239;
+  --global-footer-text-color: #f5eff9;
+  --global-border-color: #4a3c55;
+  --global-dark-border-color: #7b698a;
+  --global-code-background-color: #302739;
+  --global-code-text-color: #e3d9eb;
+  --global-fig-caption-color: #b8a9c3;
+  --global-link-color: #c8b4e1;
+  --global-link-color-hover: #e3d9eb;
+  --global-link-color-visited: #c8b4e1;
+  --global-masthead-link-color: #ece6f1;
+  --global-masthead-link-color-hover: #c8b4e1;
+  --global-text-color: #ece6f1;
+  --global-text-color-light: #b8a9c3;
+  --global-heading-color: #e3d9eb;
+  --global-thead-color: #302739;
+}

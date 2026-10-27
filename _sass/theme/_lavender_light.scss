@@ -1,0 +1,38 @@
+/* Understated lavender palette for the academic site. */
+$primary-color: #5c4389;
+$danger-color: #b54745;
+$info-color: #5c4389;
+$notice-color: #7b698a;
+$success-color: #397052;
+$warning-color: #9a6326;
+$border-radius: 6px;
+$box-shadow: 0 1px 3px rgba(83, 54, 104, 0.08);
+$global-transition: all 0.2s ease-in-out;
+$masthead-height: 70px;
+$navicon-width: 24px;
+$navicon-height: 3px;
+$sidebar-link-max-width: 250px;
+$sidebar-screen-min-width: 1024px;
+
+:root {
+  --global-base-color: #5c4389;
+  --global-bg-color: #fcfafc;
+  --global-footer-bg-color: #533668;
+  --global-footer-text-color: #f5eff9;
+  --global-border-color: #e3d9eb;
+  --global-dark-border-color: #9ba7c6;
+  --global-code-background-color: #f3eef6;
+  --global-code-text-color: #533668;
+  --global-fig-caption-color: #7b698a;
+  --global-link-color: #5c4389;
+  --global-link-color-hover: #533668;
+  --global-link-color-visited: #5c4389;
+  --global-masthead-link-color: #34303b;
+  --global-masthead-link-color-hover: #5c4389;
+  --global-text-color: #34303b;
+  --global-text-color-light: #7b698a;
+  --global-heading-color: #533668;
+  --global-thead-color: #f3eef6;
+  --global-button-color: #fff;
+  --global-button-bg-color: #5c4389;
+}

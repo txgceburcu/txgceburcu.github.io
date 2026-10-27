@@ -4,10 +4,6 @@ title: "Contact"
 author_profile: true
 ---
 
-# Contact
-
-I welcome academic discussions and research collaboration inquiries.
-
 **Email:** [txgceburcu@gmail.com](mailto:txgceburcu@gmail.com)  
 **Institution:** George Mason University · Fairfax, Virginia
 
@@ -18,4 +14,4 @@ I welcome academic discussions and research collaboration inquiries.
 - [LinkedIn](https://www.linkedin.com/in/tgundogd)
 - [GitHub](https://github.com/txgceburcu)
 
-[Download CV (PDF)](/files/Gundogdu_CV.pdf)
+[Download CV (PDF)]({{ '/files/Gundogdu_CV.pdf' | relative_url }})
