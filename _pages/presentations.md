@@ -6,7 +6,7 @@ author_profile: true
 
 ## Oral and paper presentations
 
-1. **Gundogdu, T. B.**, Wang, J., Butler, B. S., & Lee, M. (2026). *Local news at a distance: Psychological distance and the formation of news deserts* [Paper presentation]. iConference 2026.
+1. **Gundogdu, T. B.**, Wang, J., Butler, B. S., & Lee, M. (2026). *Local news at a distance: Psychological distance and the formation of news deserts* [Paper presentation]. iConference 2026, Edinburgh Napier University, UK.
 
 2. **Gundogdu, T. B.**, Ozkose, T. E., Ozeren, F., Gore, R., Lynch, C. J., Zamponi, V., O’Brien, J., Ezell, B., & Kavak, H. (2025). *Evolving risk communication: Analyzing risk response effectiveness of personalized narrative messages* [Paper presentation]. IEEE Systems and Information Engineering Design Symposium (SIEDS).
 

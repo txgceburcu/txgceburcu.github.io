@@ -12,7 +12,7 @@ site_theme               : "lavender"
 title                    : "Tugce Burcu Gundogdu"
 title_separator          : "-"
 name                     : &name "Tugce Burcu Gundogdu"
-description              : &description "Research in information inequality, AI-mediated environments, and computational social science"
+description              : &description "Research in information inequality, AI-mediated environments, and Computational Social Science"
 url                      : "https://txgceburcu.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : ""
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "txgceburcu"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

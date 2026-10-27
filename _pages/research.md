@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research Experience"
 author_profile: true
 ---
 
@@ -24,7 +24,7 @@ My research in Information Science examines how information environments shape a
 - Investigate techniques for extracting and interpreting iOS geolocation data for digital forensic investigations.
 - Study stay-point detection and the identification of meaningful movement patterns.
 
-## Parkland Center for Clinical Innovation
+## Parkland Center for Clinical Innovation (Industry Experience)
 
 *Data Science Intern · May–August 2026*
 {: .role-date}
